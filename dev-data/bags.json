@@ -1,0 +1,4104 @@
+[
+  {
+    "_id": "5c88fa8cf4afda39709c2aa1",
+    "productId": "378172",
+    "title": "Crosscut Laptop Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 49.99,
+    "previousPrice": 49.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "378172_1_1.jpg",
+    "detailImages": [
+      "378172_1_2.jpg",
+      "378172_1_3.jpg",
+      "378172_1_4.jpg",
+      "378172_1_5.jpg",
+      "378172_1_6.jpg",
+      "378172_1_7.jpg",
+      "378172_1_8.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "black/red",
+        "colorImageId": "378172_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2aa2",
+    "productId": "354743",
+    "title": "UBX Commuter Laptop Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 49.99,
+    "previousPrice": 55.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "354743_3_1.jpg",
+    "detailImages": [
+      "354743_1_2.jpg",
+      "354743_1_3.jpg",
+      "354743_1_4.jpg",
+      "354743_1_5.jpg",
+      "354743_1_6.jpg",
+      "354743_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "black/black",
+        "colorImageId": "354743_1_1.jpg"
+      },
+      {
+        "colorImageName": "black/graphite",
+        "colorImageId": "354743_2_1.jpg"
+      },
+      {
+        "colorImageName": "dark olive",
+        "colorImageId": "354743_3_1.jpg"
+      },
+      {
+        "colorImageName": "grey/slate blue",
+        "colorImageId": "354743_4_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2aa3",
+    "productId": "380654",
+    "title": "Remagg Hustle Gaming Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 119.99,
+    "previousPrice": 119.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 11.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 16.99
+      }
+    ],
+    "coverImage": "380654_1_1.jpg",
+    "detailImages": [
+      "380654_1_2.jpg",
+      "380654_1_3.jpg",
+      "380654_1_4.jpg",
+      "380654_1_5.jpg",
+      "380654_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "black/red",
+        "colorImageId": "380654_1_1.jpg"
+      },
+      {
+        "colorImageName": "black/green",
+        "colorImageId": "380654_2_1.jpg"
+      },
+      {
+        "colorImageName": "black",
+        "colorImageId": "380654_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2aa4",
+    "productId": "360782",
+    "title": "Leather Slim Laptop Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["medium"],
+    "currentPrice": 99.99,
+    "previousPrice": 120.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 9.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 14.99
+      }
+    ],
+    "coverImage": "360782_1_1.jpg",
+    "detailImages": [
+      "360782_1_2.jpg",
+      "360782_1_3.jpg",
+      "360782_1_4.jpg",
+      "360782_1_5.jpg",
+      "360782_1_6.jpg",
+      "360782_1_7.jpg",
+      "360782_1_8.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "black",
+        "colorImageId": "360782_1_1.jpg"
+      },
+      {
+        "colorImageName": "black/red",
+        "colorImageId": "360782_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2aa5",
+    "productId": "353828",
+    "title": "Prowler ST6 Laptop Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 59.99,
+    "previousPrice": 75.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 7.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 11.99
+      }
+    ],
+    "coverImage": "353828_1_1.jpg",
+    "detailImages": [
+      "353828_1_2.jpg",
+      "353828_1_3.jpg",
+      "353828_1_4.jpg",
+      "353828_1_5.jpg",
+      "353828_1_6.jpg",
+      "353828_1_7.jpg",
+      "353828_1_8.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "black",
+        "colorImageId": "353828_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2aa6",
+    "productId": "377679",
+    "title": "Executive Series Laptop Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["medium"],
+    "currentPrice": 44.99,
+    "previousPrice": 44.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "377679_1_1.jpg",
+    "detailImages": [
+      "377679_1_2.jpg",
+      "377679_1_3.jpg",
+      "377679_1_4.jpg",
+      "377679_1_5.jpg",
+      "377679_1_6.jpg",
+      "377679_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "black",
+        "colorImageId": "377679_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2aa7",
+    "productId": "354651",
+    "title": "Modern Utility GT Laptop Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 59.99,
+    "previousPrice": 65.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "354651_1_1.jpg",
+    "detailImages": [
+      "354651_1_2.jpg",
+      "354651_1_3.jpg",
+      "354651_1_4.jpg",
+      "354651_1_5.jpg",
+      "354651_1_6.jpg",
+      "354651_1_7.jpg",
+      "354651_1_8.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "navy/black",
+        "colorImageId": "354651_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2aa8",
+    "productId": "379707",
+    "title": "Mobile Solution Deluxe Laptop Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["medium"],
+    "currentPrice": 89.99,
+    "previousPrice": 89.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 8.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 12.99
+      }
+    ],
+    "coverImage": "379707_2_1.jpg",
+    "detailImages": [
+      "379707_1_2.jpg",
+      "379707_1_3.jpg",
+      "379707_1_4.jpg",
+      "379707_1_5.jpg",
+      "379707_1_6.jpg",
+      "379707_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "navy",
+        "colorImageId": "379707_2_1.jpg"
+      },
+      {
+        "colorImageName": "caper green",
+        "colorImageId": "379707_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ab1",
+    "productId": "369473",
+    "title": "Vuna Travel Pack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 59.99,
+    "previousPrice": 95.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "369473_2_1.jpg",
+    "detailImages": [
+      "369473_1_2.jpg",
+      "369473_1_3.jpg",
+      "369473_1_4.jpg",
+      "369473_1_5.jpg",
+      "369473_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black/Charcoal",
+        "colorImageId": "369473_1_1.jpg"
+      },
+      {
+        "colorImageName": "Mercury/Burlap/Pool",
+        "colorImageId": "369473_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ab2",
+    "productId": "273508",
+    "title": "XBT TSA Laptop Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["medium"],
+    "currentPrice": 85.99,
+    "previousPrice": 85.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 8.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 12.99
+      }
+    ],
+    "coverImage": "273508_3_1.jpg",
+    "detailImages": ["273508_1_2.jpg", "273508_1_3.jpg", "273508_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "273508_1_1.jpg"
+      },
+      {
+        "colorImageName": "Mercury/Crimson",
+        "colorImageId": "273508_2_1.jpg"
+      },
+      {
+        "colorImageName": "True Navy/Charcoal",
+        "colorImageId": "273508_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ab3",
+    "productId": "20007",
+    "title": "Swerve Laptop Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 53.99,
+    "previousPrice": 53.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "20007_6_1.jpg",
+    "detailImages": [
+      "20007_1_2.jpg",
+      "20007_1_3.jpg",
+      "20007_1_4.jpg",
+      "20007_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "20007_1_1.jpg"
+      },
+      {
+        "colorImageName": "Black Vapor/Black",
+        "colorImageId": "20007_2_1.jpg"
+      },
+      {
+        "colorImageName": "Iced Lilac/White",
+        "colorImageId": "20007_3_1.jpg"
+      },
+      {
+        "colorImageName": "Light Wave/Mercury/Lime",
+        "colorImageId": "20007_4_1.jpg"
+      },
+      {
+        "colorImageName": "Rainforest/Black/Deep Purple",
+        "colorImageId": "20007_5_1.jpg"
+      },
+      {
+        "colorImageName": "Sequin Facets/Bluebird/White",
+        "colorImageId": "20007_6_1.jpg"
+      },
+      {
+        "colorImageName": "Shine Blue/Lapis/White",
+        "colorImageId": "20007_7_1.jpg"
+      },
+      {
+        "colorImageName": "True Navy",
+        "colorImageId": "20007_8_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ab4",
+    "productId": "361530",
+    "title": "Access 2.0 Laptop Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["medium"],
+    "currentPrice": 64.99,
+    "previousPrice": 64.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 7.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 11.99
+      }
+    ],
+    "coverImage": "361530_1_1.jpg",
+    "detailImages": [
+      "361530_1_2.jpg",
+      "361530_1_3.jpg",
+      "361530_1_4.jpg",
+      "361530_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Crimson/Black",
+        "colorImageId": "361530_1_1.jpg"
+      },
+      {
+        "colorImageName": "Black",
+        "colorImageId": "361530_2_1.jpg"
+      },
+      {
+        "colorImageName": "Graphite Blue/Mercury",
+        "colorImageId": "361530_3_1.jpg"
+      },
+      {
+        "colorImageName": "True Navy/Mercury",
+        "colorImageId": "361530_4_1.jpg"
+      },
+      {
+        "colorImageName": "Woolly Weave/Slate",
+        "colorImageId": "361530_5_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ab5",
+    "productId": "354245",
+    "title": "Pro Series Laptop Business Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 49.99,
+    "previousPrice": 60.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "354245_1_1.jpg",
+    "detailImages": [
+      "354245_1_2.jpg",
+      "354245_1_3.jpg",
+      "354245_1_4.jpg",
+      "354245_1_5.jpg",
+      "354245_1_6.jpg",
+      "354245_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Mercury",
+        "colorImageId": "354245_1_1.jpg"
+      },
+      {
+        "colorImageName": "Mercury Heather/Mercury",
+        "colorImageId": "354245_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ab6",
+    "productId": "273509",
+    "title": "XBT Laptop Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 84.99,
+    "previousPrice": 100.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 10.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 15.99
+      }
+    ],
+    "coverImage": "273509_2_1.jpg",
+    "detailImages": ["273509_1_2.jpg", "273509_1_3.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "273509_1_1.jpg"
+      },
+      {
+        "colorImageName": "True Navy, Royal Cobalt, Chartreuse",
+        "colorImageId": "273509_2_1.jpg"
+      },
+      {
+        "colorImageName": "Mercury/Crimson",
+        "colorImageId": "273509_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ab7",
+    "productId": "376558",
+    "title": "Mindie Laptop Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["medium"],
+    "currentPrice": 47.99,
+    "previousPrice": 47.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "376558_1_1.jpg",
+    "detailImages": ["376558_1_2.jpg", "376558_1_3.jpg", "376558_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Aquamarine/Turquoise/Iced Lilac",
+        "colorImageId": "376558_1_1.jpg"
+      },
+      {
+        "colorImageName": "Denim Rose/Graph Blue/Crimson",
+        "colorImageId": "376558_2_1.jpg"
+      },
+      {
+        "colorImageName": "Fabric Tex/Black/Silver",
+        "colorImageId": "376558_3_1.jpg"
+      },
+      {
+        "colorImageName": "Forest Green",
+        "colorImageId": "376558_4_1.jpg"
+      },
+      {
+        "colorImageName": "Tropical Stripe/Blk/Aquamarine",
+        "colorImageId": "376558_5_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ab8",
+    "productId": "346988",
+    "title": "Emmett 2 Laptop Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["medium"],
+    "currentPrice": 39.99,
+    "previousPrice": 39.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 4.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 6.99
+      }
+    ],
+    "coverImage": "346988_1_1.jpg",
+    "detailImages": [
+      "346988_1_2.jpg",
+      "346988_1_3.jpg",
+      "346988_1_4.jpg",
+      "346988_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "red",
+        "colorImageId": "346988_1_1.jpg"
+      },
+      {
+        "colorImageName": "Woolly Weave/Slate/Lime",
+        "colorImageId": "346988_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ac1",
+    "productId": "377047",
+    "title": "Big Campus Laptop Backpack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 39.99,
+    "previousPrice": 39.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 3.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 5.99
+      }
+    ],
+    "coverImage": "377047_1_1.jpg",
+    "detailImages": [
+      "377047_1_2.jpg",
+      "377047_1_3.jpg",
+      "377047_1_4.jpg",
+      "377047_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Blue Jay",
+        "colorImageId": "377047_1_1.jpg"
+      },
+      {
+        "colorImageName": "Deep Space",
+        "colorImageId": "377047_2_1.jpg"
+      },
+      {
+        "colorImageName": "Rose Smoke",
+        "colorImageId": "377047_3_1.jpg"
+      },
+      {
+        "colorImageName": "Black",
+        "colorImageId": "377047_4_1.jpg"
+      },
+      {
+        "colorImageName": "Blue Liana Vines",
+        "colorImageId": "377047_5_1.jpg"
+      },
+      {
+        "colorImageName": "Finish Line Flag",
+        "colorImageId": "377047_6_1.jpg"
+      },
+      {
+        "colorImageName": "Lightning Clouds",
+        "colorImageId": "377047_7_1.jpg"
+      },
+      {
+        "colorImageName": "Micro Chip Grey",
+        "colorImageId": "377047_8_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "377047_9_1.jpg"
+      },
+      {
+        "colorImageName": "Palm Life",
+        "colorImageId": "377047_10_1.jpg"
+      },
+      {
+        "colorImageName": "Purple Leopard Life",
+        "colorImageId": "377047_11_1.jpg"
+      },
+      {
+        "colorImageName": "Russet Red",
+        "colorImageId": "377047_12_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ac2",
+    "productId": "257307",
+    "title": "City Scout Laptop Backpack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["medium"],
+    "currentPrice": 29.99,
+    "previousPrice": 45.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "257307_1_1.jpg",
+    "detailImages": [
+      "257307_1_2.jpg",
+      "257307_1_3.jpg",
+      "257307_1_4.jpg",
+      "257307_1_5.jpg",
+      "257307_1_5.jpg",
+      "257307_1_5.jpg",
+      "257307_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "257307_1_1.jpg"
+      },
+      {
+        "colorImageName": "Field Tan",
+        "colorImageId": "257307_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ac3",
+    "productId": "377045",
+    "title": "Huntington Laptop Backpack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 48.99,
+    "previousPrice": 60.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 6.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "377045_1_1.jpg",
+    "detailImages": [
+      "377045_1_2.jpg",
+      "377045_1_3.jpg",
+      "377045_1_4.jpg",
+      "377045_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Deep Grey",
+        "colorImageId": "377045_1_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "377045_2_1.jpg"
+      },
+      {
+        "colorImageName": "New Olive",
+        "colorImageId": "377045_3_1.jpg"
+      },
+      {
+        "colorImageName": "Blue Spruce",
+        "colorImageId": "377045_4_1.jpg"
+      },
+      {
+        "colorImageName": "Edo Floral",
+        "colorImageId": "377045_5_1.jpg"
+      },
+      {
+        "colorImageName": "Red/White/Blue",
+        "colorImageId": "377045_6_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ac4",
+    "productId": "248660",
+    "title": "Odyssey Laptop Backpack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["medium"],
+    "currentPrice": 99.99,
+    "previousPrice": 120.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 12.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 17.99
+      }
+    ],
+    "coverImage": "248660_1_1.jpg",
+    "detailImages": [
+      "248660_1_2.jpg",
+      "248660_1_3.jpg",
+      "248660_1_4.jpg",
+      "248660_1_5.jpg",
+      "248660_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Arctic Camo",
+        "colorImageId": "248660_1_1.jpg"
+      },
+      {
+        "colorImageName": "grey",
+        "colorImageId": "248660_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ac5",
+    "productId": "209664",
+    "title": "Right Pack Laptop Backpack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 49.99,
+    "previousPrice": 55.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "209664_1_1.jpg",
+    "detailImages": [
+      "209664_1_2.jpg",
+      "209664_1_3.jpg",
+      "209664_1_4.jpg",
+      "209664_1_5.jpg",
+      "209664_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "white",
+        "colorImageId": "209664_1_1.jpg"
+      },
+      {
+        "colorImageName": "Dark Slate",
+        "colorImageId": "209664_2_1.jpg"
+      },
+      {
+        "colorImageName": "Blue Jay",
+        "colorImageId": "209664_2_1.jpg"
+      },
+      {
+        "colorImageName": "Blue Spruce",
+        "colorImageId": "209664_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ac6",
+    "productId": "377046",
+    "title": "Ashbury Laptop Backpack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["medium"],
+    "currentPrice": 41.99,
+    "previousPrice": 60.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "377046_1_1.jpg",
+    "detailImages": [
+      "377046_1_2.jpg",
+      "377046_1_3.jpg",
+      "377046_1_4.jpg",
+      "377046_1_5.jpg",
+      "377046_1_6.jpg",
+      "377046_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "377046_1_1.jpg"
+      },
+      {
+        "colorImageName": "Dried Fig",
+        "colorImageId": "377046_2_1.jpg"
+      },
+      {
+        "colorImageName": "Gingham Daisy",
+        "colorImageId": "377046_3_1.jpg"
+      },
+      {
+        "colorImageName": "Primavera Fields",
+        "colorImageId": "377046_4_1.jpg"
+      },
+      {
+        "colorImageName": "Speckled",
+        "colorImageId": "377046_5_1.jpg"
+      },
+      {
+        "colorImageName": "Surplus Camo",
+        "colorImageId": "377046_6_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ac7",
+    "productId": "234531",
+    "title": "Right Pack Expressions",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 64.99,
+    "previousPrice": 75.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 7.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 11.99
+      }
+    ],
+    "coverImage": "234531_9_1.jpg",
+    "detailImages": [
+      "234531_1_2.jpg",
+      "234531_1_3.jpg",
+      "234531_1_4.jpg",
+      "234531_1_5.jpg",
+      "234531_1_6.jpg",
+      "234531_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Gold Polka Dot",
+        "colorImageId": "234531_2_1.jpg"
+      },
+      {
+        "colorImageName": "Black / Gold",
+        "colorImageId": "234531_3_1.jpg"
+      },
+      {
+        "colorImageName": "Camo Ombre",
+        "colorImageId": "234531_4_1.jpg"
+      },
+      {
+        "colorImageName": "Countryside Garden",
+        "colorImageId": "234531_5_1.jpg"
+      },
+      {
+        "colorImageName": "Embroidered Roses",
+        "colorImageId": "234531_6_1.jpg"
+      },
+      {
+        "colorImageName": "Floral Horizon Black",
+        "colorImageId": "234531_7_1.jpg"
+      },
+      {
+        "colorImageName": "Grey Slate Canvas",
+        "colorImageId": "234531_8_1.jpg"
+      },
+      {
+        "colorImageName": "Leopard Boot",
+        "colorImageId": "234531_9_1.jpg"
+      },
+      {
+        "colorImageName": "Morningside Bloom",
+        "colorImageId": "234531_10_1.jpg"
+      },
+      {
+        "colorImageName": "New Olive Canvas",
+        "colorImageId": "234531_11_1.jpg"
+      },
+      {
+        "colorImageName": "Red Diamond Plaid",
+        "colorImageId": "234531_12_1.jpg"
+      },
+      {
+        "colorImageName": "Skyline Woven",
+        "colorImageId": "234531_13_1.jpg"
+      },
+      {
+        "colorImageName": "Tiny Blooms",
+        "colorImageId": "234531_14_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ac8",
+    "productId": "294283",
+    "title": "Women's Agave Laptop Backpack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e0c654ac561bd91d84072bf",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 69.99,
+    "previousPrice": 70.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 7.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 11.99
+      }
+    ],
+    "coverImage": "294283_1_3.jpg",
+    "detailImages": [
+      "294283_1_2.jpg",
+      "294283_1_3.jpg",
+      "294283_1_4.jpg",
+      "294283_1_5.jpg",
+      "294283_1_6.jpg",
+      "294283_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Sleet Silver Vines",
+        "colorImageId": "294283_1_3.jpg"
+      },
+      {
+        "colorImageName": "Black",
+        "colorImageId": "294283_2_1.jpg"
+      },
+      {
+        "colorImageName": "white",
+        "colorImageId": "294283_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ba1",
+    "productId": "360782",
+    "title": "Leather Slim Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 99.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 10.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 14.99
+      }
+    ],
+    "coverImage": "360782_2_1.jpg",
+    "detailImages": [
+      "360782_1_2.jpg",
+      "360782_1_3.jpg",
+      "360782_1_4.jpg",
+      "360782_1_5.jpg",
+      "360782_1_6.jpg",
+      "360782_1_7.jpg",
+      "360782_1_8.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "360782_1_1.jpg"
+      },
+      {
+        "colorImageName": "Chestnut",
+        "colorImageId": "360782_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ba2",
+    "productId": "373082",
+    "title": "Encompass Convertible Overnight Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["medium"],
+    "currentPrice": 99.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 10.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 14.99
+      }
+    ],
+    "coverImage": "373082_1_1.jpg",
+    "detailImages": [
+      "373082_1_2.jpg",
+      "373082_1_3.jpg",
+      "373082_1_4.jpg",
+      "373082_1_5.jpg",
+      "373082_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Anthracite Grey",
+        "colorImageId": "373082_1_1.jpg"
+      },
+      {
+        "colorImageName": "Black",
+        "colorImageId": "373082_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ba3",
+    "productId": "378702",
+    "title": "Slim Laptop Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 139.99,
+    "previousPrice": 180.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 17.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 25.99
+      }
+    ],
+    "coverImage": "378702_1_1.jpg",
+    "detailImages": [
+      "378702_1_2.jpg",
+      "378702_1_3.jpg",
+      "378702_1_4.jpg",
+      "378702_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "378702_1_1.jpg"
+      },
+      {
+        "colorImageName": "Cognac",
+        "colorImageId": "378702_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ba4",
+    "productId": "370548",
+    "title": "SXK Prime Expandable Laptop Backpack with RFID",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 420.99,
+    "previousPrice": 480.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 31.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 37.99
+      }
+    ],
+    "coverImage": "370548_1_1.jpg",
+    "detailImages": [
+      "370548_1_2.jpg",
+      "370548_1_3.jpg",
+      "370548_1_4.jpg",
+      "370548_1_5.jpg",
+      "370548_1_6.jpg",
+      "370548_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black/Silver",
+        "colorImageId": "370548_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ba5",
+    "productId": "378703",
+    "title": "Laptop Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["medium"],
+    "currentPrice": 169.99,
+    "previousPrice": 195.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 18.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 25.99
+      }
+    ],
+    "coverImage": "378703_1_1.jpg",
+    "detailImages": [
+      "378703_1_2.jpg",
+      "378703_1_3.jpg",
+      "378703_1_4.jpg",
+      "378703_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "378703_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ba6",
+    "productId": "355315",
+    "title": "Kombi Large Laptop Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 134.99,
+    "previousPrice": 134.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 12.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 16.99
+      }
+    ],
+    "coverImage": "355315_1_1.jpg",
+    "detailImages": [
+      "355315_1_2.jpg",
+      "355315_1_3.jpg",
+      "355315_1_4.jpg",
+      "355315_1_5.jpg",
+      "355315_1_6.jpg",
+      "355315_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black/Brown",
+        "colorImageId": "355315_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ba7",
+    "productId": "353828",
+    "title": "Prowler ST6 Laptop Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["medium"],
+    "currentPrice": 59.99,
+    "previousPrice": 59.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "353828_1_1.jpg",
+    "detailImages": [
+      "353828_1_2.jpg",
+      "353828_1_3.jpg",
+      "353828_1_4.jpg",
+      "353828_1_5.jpg",
+      "353828_1_6.jpg",
+      "353828_1_7.jpg",
+      "353828_1_8.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "353828_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ba8",
+    "productId": "380658",
+    "title": "SCS Flap Backpack",
+    "brand": "5e0c5a78a0f8fd87d4490c7b",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 239.99,
+    "previousPrice": 289.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 28.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 29.99
+      }
+    ],
+    "coverImage": "380658_1_1.jpg",
+    "detailImages": [
+      "380658_1_2.jpg",
+      "380658_1_3.jpg",
+      "380658_1_4.jpg",
+      "380658_1_5.jpg",
+      "380658_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "380658_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bb1",
+    "productId": "377471",
+    "title": "Business Pro Slim USB Pack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 69.99,
+    "previousPrice": 89.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "377471_1_1.jpg",
+    "detailImages": [
+      "377471_1_2.jpg",
+      "377471_1_3.jpg",
+      "377471_1_4.jpg",
+      "377471_1_5.jpg",
+      "377471_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Mercury Heather/Black",
+        "colorImageId": "377471_1_1.jpg"
+      },
+      {
+        "colorImageName": "Rustic Blue Heather/Chili Pepper",
+        "colorImageId": "377471_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bb2",
+    "productId": "377470",
+    "title": "Business Slim Pack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["medium"],
+    "currentPrice": 59.99,
+    "previousPrice": 85.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 8.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 11.99
+      }
+    ],
+    "coverImage": "377470_1_1.jpg",
+    "detailImages": ["377470_1_2.jpg", "377470_1_3.jpg", "377470_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Mercury Heather/Black",
+        "colorImageId": "377470_1_1.jpg"
+      },
+      {
+        "colorImageName": "Rustic Blue Heather/Chili Pepper",
+        "colorImageId": "377470_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bb3",
+    "productId": "356122",
+    "title": "Endeavor TSA Elite Laptop Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 109.99,
+    "previousPrice": 153.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "356122_1_1.jpg",
+    "detailImages": [
+      "356122_1_2.jpg",
+      "356122_1_3.jpg",
+      "356122_1_4.jpg",
+      "356122_1_5.jpg",
+      "356122_1_6.jpg",
+      "356122_1_7.jpg",
+      "356122_1_8.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "356122_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bb4",
+    "productId": "356141",
+    "title": "Endeavor Wheeled Laptop Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["medium"],
+    "currentPrice": 114.99,
+    "previousPrice": 164.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 6.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "356141_1_1.jpg",
+    "detailImages": [
+      "356141_1_2.jpg",
+      "356141_1_3.jpg",
+      "356141_1_4.jpg",
+      "356141_1_5.jpg",
+      "356141_1_6.jpg",
+      "356141_1_7.jpg",
+      "356141_1_8.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "346988_1_1.jpg"
+      },
+      {
+        "colorImageName": "Mercury/Heather",
+        "colorImageId": "346988_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bb5",
+    "productId": "361533",
+    "title": "Jarvis Laptop Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 53.99,
+    "previousPrice": 69.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "361533_1_1.jpg",
+    "detailImages": [
+      "361533_1_2.jpg",
+      "361533_1_3.jpg",
+      "361533_1_4.jpg",
+      "361533_1_5.jpg",
+      "361533_1_6.jpg",
+      "361533_1_7.jpg",
+      "361533_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "361533_1_1.jpg"
+      },
+      {
+        "colorImageName": "Chili Pepper/Slate",
+        "colorImageId": "361533_2_1.jpg"
+      },
+      {
+        "colorImageName": "Graphite Blue/Black",
+        "colorImageId": "361533_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bb6",
+    "productId": "377481",
+    "title": "Life Is Good Emmett 2.0 Laptop Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 42.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 9.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 14.99
+      }
+    ],
+    "coverImage": "377481_1_1.jpg",
+    "detailImages": ["377481_1_2.jpg", "377481_1_3.jpg", "377481_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Slate Grey/Black",
+        "colorImageId": "377481_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bb7",
+    "productId": "364204",
+    "title": "Public Pak 2 Laptop 32L Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["medium"],
+    "currentPrice": 74.99,
+    "previousPrice": 95.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "364204_1_1.jpg",
+    "detailImages": [
+      "364204_1_2.jpg",
+      "364204_1_3.jpg",
+      "364204_1_4.jpg",
+      "364204_1_5.jpg",
+      "364204_1_6.jpg",
+      "364204_1_7.jpg",
+      "364204_1_8.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black Moss",
+        "colorImageId": "364204_1_1.jpg"
+      },
+      {
+        "colorImageName": "Olive/Black",
+        "colorImageId": "364204_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bb8",
+    "productId": "369472",
+    "title": "Vuna TSA Business Backpack",
+    "brand": "5e0c68d0c561bd91d84072c6",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 69.99,
+    "previousPrice": 89.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "369472_1_1.jpg",
+    "detailImages": ["369472_1_2.jpg", "369472_1_3.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Black/Charcoal",
+        "colorImageId": "369472_1_1.jpg"
+      },
+      {
+        "colorImageName": "Mercury/Burlap/Pool",
+        "colorImageId": "369472_2_1.jpg"
+      },
+      {
+        "colorImageName": "True Navy/Mercury",
+        "colorImageId": "369472_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bc1",
+    "productId": "280113",
+    "title": "Back-Stage Access Colombian Leather Laptop Backpack",
+    "brand": "5e1c2cbd510df55b185f3dc8",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 119.99,
+    "previousPrice": 139.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 13.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 19.99
+      }
+    ],
+    "coverImage": "280113_1_1.jpg",
+    "detailImages": [
+      "280113_1_2.jpg",
+      "280113_1_3.jpg",
+      "280113_1_4.jpg",
+      "280113_1_5.jpg",
+      "280113_1_6.jpg",
+      "280113_1_7.jpg",
+      "280113_1_8.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "280113_1_1.jpg"
+      },
+      {
+        "colorImageName": "Brown",
+        "colorImageId": "280113_2_1.jpg"
+      },
+      {
+        "colorImageName": "Cognac",
+        "colorImageId": "280113_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bc2",
+    "productId": "351606",
+    "title": "Ease Back Dual Compartment 15.6 Laptop RFID Business Backpack",
+    "brand": "5e1c2cbd510df55b185f3dc8",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["medium"],
+    "currentPrice": 139.99,
+    "previousPrice": 159.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 12.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 18.99
+      }
+    ],
+    "coverImage": "351606_1_1.jpg",
+    "detailImages": [
+      "351606_1_2.jpg",
+      "351606_1_3.jpg",
+      "351606_1_4.jpg",
+      "351606_1_5.jpg",
+      "351606_1_6.jpg",
+      "351606_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "351606_1_1.jpg"
+      },
+      {
+        "colorImageName": "Brown",
+        "colorImageId": "351606_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bc3",
+    "productId": "282386",
+    "title": "Pack of All Trades 17 Laptop Business Backpack",
+    "brand": "5e1c2cbd510df55b185f3dc8",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["medium"],
+    "currentPrice": 79.99,
+    "previousPrice": 79.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 7.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 11.99
+      }
+    ],
+    "coverImage": "282386_1_1.jpg",
+    "detailImages": [
+      "282386_1_2.jpg",
+      "282386_1_3.jpg",
+      "282386_1_4.jpg",
+      "282386_1_5.jpg",
+      "282386_1_6.jpg",
+      "282386_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Pin Dot Charcoal",
+        "colorImageId": "282386_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bc4",
+    "productId": "373683",
+    "title": "Sky Times Triple Compartment RFID 17.3” Laptop Backpack",
+    "brand": "5e1c2cbd510df55b185f3dc8",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 59.99,
+    "previousPrice": 125.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 11.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 16.99
+      }
+    ],
+    "coverImage": "373683_1_1.jpg",
+    "detailImages": [
+      "373683_1_2.jpg",
+      "373683_1_3.jpg",
+      "373683_1_4.jpg",
+      "373683_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Heathered Charcoal",
+        "colorImageId": "373683_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bc5",
+    "productId": "329382",
+    "title": "Sleek Computer Pack-er Colombian Leather Laptop Backpack",
+    "brand": "5e1c2cbd510df55b185f3dc8",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 99.99,
+    "previousPrice": 119.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 7.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 11.99
+      }
+    ],
+    "coverImage": "329382_1_1.jpg",
+    "detailImages": [
+      "329382_1_2.jpg",
+      "329382_1_3.jpg",
+      "329382_1_4.jpg",
+      "329382_1_5.jpg",
+      "329382_1_6.jpg",
+      "329382_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "329382_1_1.jpg"
+      },
+      {
+        "colorImageName": "Brown",
+        "colorImageId": "329382_2_1.jpg"
+      },
+      {
+        "colorImageName": "Cognac",
+        "colorImageId": "329382_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bc6",
+    "productId": "343011",
+    "title": "The Brooklyn Commuter 15 RFID Laptop Backpack",
+    "brand": "5e1c2cbd510df55b185f3dc8",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["medium"],
+    "currentPrice": 49.99,
+    "previousPrice": 61.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "343011_1_1.jpg",
+    "detailImages": [
+      "343011_1_2.jpg",
+      "343011_1_3.jpg",
+      "343011_1_4.jpg",
+      "343011_1_5.jpg",
+      "343011_1_6.jpg",
+      "343011_1_7.jpg",
+      "343011_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Navy - Exclusive",
+        "colorImageId": "343011_1_1.jpg"
+      },
+      {
+        "colorImageName": "Pin Dot Charcoal - Exclusive",
+        "colorImageId": "343011_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bc7",
+    "productId": "346921",
+    "title": "The Manhattan 16 Colombian Leather Slim RFID Laptop Backpack",
+    "brand": "5e1c2cbd510df55b185f3dc8",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 119.99,
+    "previousPrice": 164.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "346921_1_1.jpg",
+    "detailImages": [
+      "346921_1_2.jpg",
+      "346921_1_3.jpg",
+      "346921_1_4.jpg",
+      "346921_1_5.jpg",
+      "346921_1_6.jpg",
+      "346921_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black - eBags Exclusive",
+        "colorImageId": "346921_1_1.jpg"
+      },
+      {
+        "colorImageName": "Brown - eBags Exclusive",
+        "colorImageId": "346921_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2bc8",
+    "productId": "361179",
+    "title": "Women's Sophie 15.6 Laptop Business Backpack with RFID",
+    "brand": "5e1c2cbd510df55b185f3dc8",
+    "category": "5e0c656ec561bd91d84072c1",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 69.99,
+    "previousPrice": 79.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 7.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 11.99
+      }
+    ],
+    "coverImage": "361179_1_1.jpg",
+    "detailImages": [
+      "361179_1_2.jpg",
+      "361179_1_3.jpg",
+      "361179_1_4.jpg",
+      "361179_1_5.jpg",
+      "361179_1_6.jpg",
+      "361179_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black With Gold Hardware - Exclusive",
+        "colorImageId": "361179_1_1.jpg"
+      },
+      {
+        "colorImageName": "Navy With Gold Hardware - Exclusive",
+        "colorImageId": "361179_2_1.jpg"
+      }
+    ]
+  },
+
+  {
+    "_id": "5c88fa8cf4afda39709c2ca1",
+    "productId": "303827",
+    "title": "Farpoint 70 Travel Laptop Backpack",
+    "brand": "5e1c4bb578bd53da44192bad",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 89.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 9.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 14.99
+      }
+    ],
+    "coverImage": "303827_1_1.jpg",
+    "detailImages": ["303827_1_2.jpg", "303827_1_3.jpg", "303827_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Jasper Red",
+        "colorImageId": "303827_1_1.jpg"
+      },
+      {
+        "colorImageName": "Volcanic Grey",
+        "colorImageId": "303827_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ca2",
+    "productId": "361344",
+    "title": "Ozone Duplex 65L Backpack",
+    "brand": "5e1c4bb578bd53da44192bad",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 219.99,
+    "previousPrice": 299.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 29.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 39.99
+      }
+    ],
+    "coverImage": "361344_1_1.jpg",
+    "detailImages": [
+      "361344_1_2.jpg",
+      "361344_1_3.jpg",
+      "361344_1_4.jpg",
+      "361344_1_5.jpg",
+      "361344_1_6.jpg",
+      "361344_1_7.jpg",
+      "361344_1_8.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "346988_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ca3",
+    "productId": "277437",
+    "title": "Porter 30 Travel Backpack",
+    "brand": "5e1c4bb578bd53da44192bad",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 119.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 18.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 28.99
+      }
+    ],
+    "coverImage": "277437_1_1.jpg",
+    "detailImages": [
+      "277437_1_2.jpg",
+      "277437_1_3.jpg",
+      "277437_1_4.jpg",
+      "277437_1_5.jpg",
+      "277437_1_6.jpg",
+      "277437_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "277437_1_1.jpg"
+      },
+      {
+        "colorImageName": "Castle Grey",
+        "colorImageId": "277437_2_1.jpg"
+      },
+      {
+        "colorImageName": "Mineral Teal",
+        "colorImageId": "277437_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ca4",
+    "productId": "277438",
+    "title": "Porter 46 Travel Backpack",
+    "brand": "5e1c4bb578bd53da44192bad",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 139.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 18.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 28.99
+      }
+    ],
+    "coverImage": "277438_1_1.jpg",
+    "detailImages": [
+      "277438_1_2.jpg",
+      "277438_1_3.jpg",
+      "277438_1_4.jpg",
+      "277438_1_5.jpg",
+      "277438_1_6.jpg",
+      "277438_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "277438_1_1.jpg"
+      },
+      {
+        "colorImageName": "Castle Grey",
+        "colorImageId": "277438_2_1.jpg"
+      },
+      {
+        "colorImageName": "Diablo Red",
+        "colorImageId": "277438_1_1.jpg"
+      },
+      {
+        "colorImageName": "Mineral Teal",
+        "colorImageId": "277438_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ca5",
+    "productId": "277439",
+    "title": "Porter 65 Travel Backpack",
+    "brand": "5e1c4bb578bd53da44192bad",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 159.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 19.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 25.99
+      }
+    ],
+    "coverImage": "277439_2_1.jpg",
+    "detailImages": [
+      "277439_1_2.jpg",
+      "277439_1_3.jpg",
+      "277439_1_4.jpg",
+      "277439_1_5.jpg",
+      "277439_1_6.jpg",
+      "277439_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "277439_1_1.jpg"
+      },
+      {
+        "colorImageName": "Diablo Red",
+        "colorImageId": "277439_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ca6",
+    "productId": "351205",
+    "title": "Women's Fairview 40L Travel Backpack",
+    "brand": "5e1c4bb578bd53da44192bad",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 159.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 9.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 15.99
+      }
+    ],
+    "coverImage": "351205_1_1.jpg",
+    "detailImages": [
+      "351205_1_2.jpg",
+      "351205_1_3.jpg",
+      "351205_1_4.jpg",
+      "351205_1_5.jpg",
+      "351205_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "rMisty Grey",
+        "colorImageId": "351205_1_1.jpg"
+      },
+      {
+        "colorImageName": "Rainforest Green",
+        "colorImageId": "351205_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ca7",
+    "productId": "351204",
+    "title": "Women's Fairview 55L Travel Backpack",
+    "brand": "5e1c4bb578bd53da44192bad",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 79.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 9.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 15.99
+      }
+    ],
+    "coverImage": "351204_1_1.jpg",
+    "detailImages": [
+      "351204_1_2.jpg",
+      "351204_1_3.jpg",
+      "351204_1_4.jpg",
+      "351204_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Misty Grey",
+        "colorImageId": "351204_1_1.jpg"
+      },
+      {
+        "colorImageName": "Rainforest Green",
+        "colorImageId": "351204_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2ca8",
+    "productId": "361345",
+    "title": "Women's Ozone Duplex 60L Backpack",
+    "brand": "5e1c4bb578bd53da44192bad",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 219.99,
+    "previousPrice": 299.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 25.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 36.99
+      }
+    ],
+    "coverImage": "361345_1_1.jpg",
+    "detailImages": [
+      "361345_1_2.jpg",
+      "361345_1_3.jpg",
+      "361345_1_4.jpg",
+      "361345_1_5.jpg",
+      "361345_1_6.jpg",
+      "361345_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Bouyant Blue",
+        "colorImageId": "361345_1_1.jpg"
+      }
+    ]
+  },
+
+  {
+    "_id": "5c88fa8cf4afda39709c2cb1",
+    "productId": "378469",
+    "title": "Classic 28L Travel Laptop Backpack",
+    "brand": "5e1c4bf76ecebc607870ffea",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 59.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 9.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 14.99
+      }
+    ],
+    "coverImage": "378469_1_1.jpg",
+    "detailImages": [
+      "378469_1_2.jpg",
+      "378469_1_3.jpg",
+      "378469_1_4.jpg",
+      "378469_1_5.jpg",
+      "378469_1_6.jpg",
+      "378469_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Absolute Black",
+        "colorImageId": "378469_1_1.jpg"
+      },
+      {
+        "colorImageName": "Georgian Khaki",
+        "colorImageId": "378469_2_1.jpg"
+      },
+      {
+        "colorImageName": "Ice Grey",
+        "colorImageId": "378469_3_1.jpg"
+      },
+      {
+        "colorImageName": "Jaipur Pink",
+        "colorImageId": "378469_4_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "378469_5_1.jpg"
+      },
+      {
+        "colorImageName": "Orange Chill",
+        "colorImageId": "378469_6_1.jpg"
+      },
+      {
+        "colorImageName": "Original Grey",
+        "colorImageId": "378469_7_1.jpg"
+      },
+      {
+        "colorImageName": "Sand Shell",
+        "colorImageId": "378469_8_1.jpg"
+      },
+      {
+        "colorImageName": "Serengeti Sunrise",
+        "colorImageId": "378469_9_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cb2",
+    "productId": "378472",
+    "title": "Classic 36L Travel Laptop Backpack",
+    "brand": "5e1c4bf76ecebc607870ffea",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 69.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 8.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 12.99
+      }
+    ],
+    "coverImage": "378472_1_1.jpg",
+    "detailImages": [
+      "378472_1_2.jpg",
+      "378472_1_3.jpg",
+      "378472_1_4.jpg",
+      "378472_1_5.jpg",
+      "378472_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Absolute Black",
+        "colorImageId": "378472_1_1.jpg"
+      },
+      {
+        "colorImageName": "Aruba Blue",
+        "colorImageId": "378472_2_1.jpg"
+      },
+      {
+        "colorImageName": "Georgian Khaki",
+        "colorImageId": "378472_3_1.jpg"
+      },
+      {
+        "colorImageName": "Ice Grey",
+        "colorImageId": "378472_4_1.jpg"
+      },
+      {
+        "colorImageName": "Jaipur Pink",
+        "colorImageId": "378472_5_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "378472_6_1.jpg"
+      },
+      {
+        "colorImageName": "Orange Chill",
+        "colorImageId": "378472_7_1.jpg"
+      },
+      {
+        "colorImageName": "Original Grey",
+        "colorImageId": "378472_8_1.jpg"
+      },
+      {
+        "colorImageName": "Purple Cloud",
+        "colorImageId": "378472_9_1.jpg"
+      },
+      {
+        "colorImageName": "Serengeti Sunrise",
+        "colorImageId": "378472_10_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cb3",
+    "productId": "378467",
+    "title": "Classic 44L Travel Laptop Backpack",
+    "brand": "5e1c4bf76ecebc607870ffea",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 79.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 8.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 12.99
+      }
+    ],
+    "coverImage": "378467_1_1.jpg",
+    "detailImages": [
+      "378467_1_2.jpg",
+      "378467_1_3.jpg",
+      "378467_1_4.jpg",
+      "378467_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Absolute Black",
+        "colorImageId": "378467_1_1.jpg"
+      },
+      {
+        "colorImageName": "Aruba Blue",
+        "colorImageId": "378467_2_1.jpg"
+      },
+      {
+        "colorImageName": "Black Sand",
+        "colorImageId": "378467_3_1.jpg"
+      },
+      {
+        "colorImageName": "Ice Grey",
+        "colorImageId": "378467_4_1.jpg"
+      },
+      {
+        "colorImageName": "Jaipur Pink",
+        "colorImageId": "378467_5_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "378467_6_1.jpg"
+      },
+      {
+        "colorImageName": "Orange Chill",
+        "colorImageId": "378467_7_1.jpg"
+      },
+      {
+        "colorImageName": "Purple Cloud",
+        "colorImageId": "378467_8_1.jpg"
+      },
+      {
+        "colorImageName": "Original Grey",
+        "colorImageId": "378467_9_1.jpg"
+      },
+      {
+        "colorImageName": "Serengeti Sunrise",
+        "colorImageId": "378467_10_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cb4",
+    "productId": "378479",
+    "title": "Classic Plus 32L Backpack",
+    "brand": "5e1c4bf76ecebc607870ffea",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 99.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 9.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 12.99
+      }
+    ],
+    "coverImage": "378479_1_1.jpg",
+    "detailImages": [
+      "378479_2_1.jpg",
+      "378479_2_2.jpg",
+      "378479_2_3.jpg",
+      "378479_2_4.jpg",
+      "378479_2_5.jpg",
+      "378479_2_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "378479_1_1.jpg"
+      },
+      {
+        "colorImageName": "orange chill",
+        "colorImageId": "378479_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cb5",
+    "productId": "378480",
+    "title": "Classic Plus 42L Backpack",
+    "brand": "5e1c4bf76ecebc607870ffea",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 89.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 9.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 13.99
+      }
+    ],
+    "coverImage": "378480_2_1.jpg",
+    "detailImages": [
+      "378480_1_2.jpg",
+      "378480_1_3.jpg",
+      "378480_1_4.jpg",
+      "378480_1_5.jpg",
+      "378480_1_6.jpg",
+      "378480_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "navy",
+        "colorImageId": "378480_1_2.jpg"
+      },
+      {
+        "colorImageName": "orange chill",
+        "colorImageId": "378480_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cb6",
+    "productId": "378474",
+    "title": "Military 28L Laptop Backpack",
+    "brand": "5e1c4bf76ecebc607870ffea",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 99.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 9.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 13.99
+      }
+    ],
+    "coverImage": "378474_1_1.jpg",
+    "detailImages": [
+      "378474_1_2.jpg",
+      "378474_1_3.jpg",
+      "378474_1_4.jpg",
+      "378474_1_5.jpg",
+      "378474_1_6.jpg",
+      "378474_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Absolute Black",
+        "colorImageId": "378474_1_1.jpg"
+      },
+      {
+        "colorImageName": "Desert Sand",
+        "colorImageId": "378474_2_1.jpg"
+      },
+      {
+        "colorImageName": "Military Green",
+        "colorImageId": "378474_3_1.jpg"
+      },
+      {
+        "colorImageName": "Military Grey",
+        "colorImageId": "378474_4_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "378474_5_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cb7",
+    "productId": "378473",
+    "title": "Military 36L Laptop Backpack",
+    "brand": "5e1c4bf76ecebc607870ffea",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 89.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 9.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 13.99
+      }
+    ],
+    "coverImage": "378473_1_1.jpg",
+    "detailImages": [
+      "378473_1_2.jpg",
+      "378473_1_3.jpg",
+      "378473_1_4.jpg",
+      "378473_1_5.jpg",
+      "378473_1_6.jpg",
+      "378473_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Absolute Black",
+        "colorImageId": "378473_1_1.jpg"
+      },
+      {
+        "colorImageName": "Desert Sand",
+        "colorImageId": "378473_2_1.jpg"
+      },
+      {
+        "colorImageName": "Military Green",
+        "colorImageId": "378473_3_1.jpg"
+      },
+      {
+        "colorImageName": "Military Grey",
+        "colorImageId": "378473_4_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "378473_5_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cb8",
+    "productId": "378470",
+    "title": "Military 44L Laptop Backpack",
+    "brand": "5e1c4bf76ecebc607870ffea",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 119.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 19.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 29.99
+      }
+    ],
+    "coverImage": "378470_1_1.jpg",
+    "detailImages": [
+      "378470_1_2.jpg",
+      "378470_1_3.jpg",
+      "378470_1_4.jpg",
+      "378470_1_5.jpg",
+      "378470_1_6.jpg",
+      "378470_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Absolute Black",
+        "colorImageId": "378470_1_1.jpg"
+      },
+      {
+        "colorImageName": "Desert Sand",
+        "colorImageId": "378470_2_1.jpg"
+      },
+      {
+        "colorImageName": "Military Green",
+        "colorImageId": "378470_3_1.jpg"
+      },
+      {
+        "colorImageName": "Military Grey",
+        "colorImageId": "378470_4_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "378470_5_1.jpg"
+      }
+    ]
+  },
+
+  {
+    "_id": "5c88fa8cf4afda39709c2cc1",
+    "productId": "379577",
+    "title": "Aviant Access 38 Travel Pack",
+    "brand": "5e1c9119d62491dbc42bbaff",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 150.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 18.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 26.99
+      }
+    ],
+    "coverImage": "379577_1_1.jpg",
+    "detailImages": ["379577_1_2.jpg", "379577_1_3.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "379577_1_1.jpg"
+      },
+      {
+        "colorImageName": "Khaki/Ivy",
+        "colorImageId": "379577_2_1.jpg"
+      },
+      {
+        "colorImageName": "Midnight/Navy",
+        "colorImageId": "379577_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cc2",
+    "productId": "379583",
+    "title": "Aviant Access Pro 70 Travel Pack",
+    "brand": "5e1c9119d62491dbc42bbaff",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 260.99,
+    "previousPrice": 299.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 28.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 37.99
+      }
+    ],
+    "coverImage": "379583_1_1.jpg",
+    "detailImages": [],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "378470_1_1.jpg"
+      },
+      {
+        "colorImageName": "Khaki/Ivy",
+        "colorImageId": "378470_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cc3",
+    "productId": "379575",
+    "title": "Aviant Carry On Pro 36 Travel Bag",
+    "brand": "5e1c9119d62491dbc42bbaff",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 160.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 18.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 27.99
+      }
+    ],
+    "coverImage": "379575_1_1.jpg",
+    "detailImages": [
+      "379575_1_2.jpg",
+      "379575_1_3.jpg",
+      "379575_1_4.jpg",
+      "379575_1_5.jpg",
+      "379575_1_6.jpg",
+      "379575_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "379575_1_1.jpg"
+      },
+      {
+        "colorImageName": "Khaki/Ivy",
+        "colorImageId": "379575_2_1.jpg"
+      },
+      {
+        "colorImageName": "Midnight/Navy",
+        "colorImageId": "379575_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cc4",
+    "productId": "379585",
+    "title": "Aviant Voyager 65+10 Travel Pack",
+    "brand": "5e1c9119d62491dbc42bbaff",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 260.99,
+    "previousPrice": 299.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 28.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 36.99
+      }
+    ],
+    "coverImage": "379585_1_1.jpg",
+    "detailImages": ["379585_1_2.jpg", "379585_1_3.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "379585_1_1.jpg"
+      },
+      {
+        "colorImageName": "Khaki/Ivy",
+        "colorImageId": "379585_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cc5",
+    "productId": "379582",
+    "title": "Womens Aviant Access Pro 55 SL Travel Pack",
+    "brand": "5e1c9119d62491dbc42bbaff",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 240.99,
+    "previousPrice": 299.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 27.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 34.99
+      }
+    ],
+    "coverImage": "379582_1_1.jpg",
+    "detailImages": [],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "379582_1_1.jpg"
+      },
+      {
+        "colorImageName": "Maroon/Aubergine",
+        "colorImageId": "379582_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cc6",
+    "productId": "379584",
+    "title": "Womens Aviant Access Pro 65 SL Travel Pack",
+    "brand": "5e1c9119d62491dbc42bbaff",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 260.99,
+    "previousPrice": 299.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 28.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 35.99
+      }
+    ],
+    "coverImage": "379584_2_1.jpg",
+    "detailImages": [],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "379584_1_1.jpg"
+      },
+      {
+        "colorImageName": "Maroon/Aubergine",
+        "colorImageId": "379584_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cc7",
+    "productId": "379574",
+    "title": "Womens Aviant Carry On 28 SL Travel Bag",
+    "brand": "5e1c9119d62491dbc42bbaff",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["medium"],
+    "currentPrice": 130.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 18.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 25.99
+      }
+    ],
+    "coverImage": "379574_1_1.jpg",
+    "detailImages": ["379574_1_2.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "379574_1_1.jpg"
+      },
+      {
+        "colorImageName": "Midnight/Ivy",
+        "colorImageId": "379574_2_1.jpg"
+      },
+      {
+        "colorImageName": "Maroon/Aubergine",
+        "colorImageId": "379574_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2cc8",
+    "productId": "379586",
+    "title": "Womens Aviant Voyager 60+10 SL Travel Pack",
+    "brand": "5e1c9119d62491dbc42bbaff",
+    "category": "5e0c655ec561bd91d84072c0",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 260.99,
+    "previousPrice": 299.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 28.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 35.99
+      }
+    ],
+    "coverImage": "379586_1_1.jpg",
+    "detailImages": ["379586_1_2.jpg", "379586_1_3.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "379586_1_1.jpg"
+      },
+      {
+        "colorImageName": "Maroon/Aubergine",
+        "colorImageId": "379586_2_1.jpg"
+      }
+    ]
+  },
+
+  {
+    "_id": "5c88fa8cf4afda39709c2da1",
+    "productId": "278965",
+    "title": "Beetle Laptop Backpack",
+    "brand": "5e1c9581534a78a678e063ac",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 39.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 6.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "278965_3_1.jpg",
+    "detailImages": ["278965_1_2.jpg", "278965_1_3.jpg", "278965_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Brown",
+        "colorImageId": "278965_1_1.jpg"
+      },
+      {
+        "colorImageName": "Orange",
+        "colorImageId": "278965_2_1.jpg"
+      },
+      {
+        "colorImageName": "Desert Sand",
+        "colorImageId": "278965_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2da2",
+    "productId": "278966",
+    "title": "Carmen Laptop Backpack",
+    "brand": "5e1c9581534a78a678e063ac",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 49.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "278966_4_1.jpg",
+    "detailImages": ["278966_1_2.jpg", "278966_1_3.jpg", "278966_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Pink zulu",
+        "colorImageId": "278966_2_1.jpg"
+      },
+      {
+        "colorImageName": "Black/Grey",
+        "colorImageId": "278966_3_1.jpg"
+      },
+      {
+        "colorImageName": "Blue",
+        "colorImageId": "278966_4_1.jpg"
+      },
+      {
+        "colorImageName": "Pink",
+        "colorImageId": "278966_5_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "278966_6_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2da3",
+    "productId": "220291",
+    "title": "Cornelia Laptop Backpack",
+    "brand": "5e1c9581534a78a678e063ac",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 49.99,
+    "previousPrice": 69.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 3.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 5.99
+      }
+    ],
+    "coverImage": "220291_2_1.jpg",
+    "detailImages": [
+      "220291_1_2.jpg",
+      "220291_1_3.jpg",
+      "220291_1_4.jpg",
+      "220291_1_5.jpg",
+      "220291_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "220291_2_1.jpg"
+      },
+      {
+        "colorImageName": "cubes",
+        "colorImageId": "220291_3_1.jpg"
+      },
+      {
+        "colorImageName": "Bliss",
+        "colorImageId": "220291_4_1.jpg"
+      },
+      {
+        "colorImageName": "Desert Sand",
+        "colorImageId": "220291_5_1.jpg"
+      },
+      {
+        "colorImageName": "Ice Pop",
+        "colorImageId": "220291_6_1.jpg"
+      },
+      {
+        "colorImageName": "Red Cubes",
+        "colorImageId": "220291_7_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2da4",
+    "productId": "348963",
+    "title": "Elite Laptop Backpack",
+    "brand": "5e1c9581534a78a678e063ac",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 45.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "348963_1_1.jpg",
+    "detailImages": ["348963_1_2.jpg", "348963_1_3.jpg", "348963_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "348963_1_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "348963_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2da5",
+    "productId": "299080",
+    "title": "Kinder Kids Backpack",
+    "brand": "5e1c9581534a78a678e063ac",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 27.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "299080_1_3.jpg",
+    "detailImages": ["299080_1_3.jpg", "299080_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "299080_2_1.jpg"
+      },
+      {
+        "colorImageName": "Seaworld",
+        "colorImageId": "299080_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2da6",
+    "productId": "299085",
+    "title": "Novel Laptop Backpack",
+    "brand": "5e1c9581534a78a678e063ac",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 59.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "299085_1_1.jpg",
+    "detailImages": [
+      "299085_1_2.jpg",
+      "299085_1_3.jpg",
+      "299085_1_3.jpg",
+      "299085_1_3.jpg",
+      "299085_1_3.jpg",
+      "299085_1_3.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "299085_1_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "299085_2_1.jpg"
+      },
+      {
+        "colorImageName": "Origami",
+        "colorImageId": "299085_1_1.jpg"
+      },
+      {
+        "colorImageName": "Sand",
+        "colorImageId": "299085_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2da7",
+    "productId": "220277",
+    "title": "Oz School Backpack",
+    "brand": "5e1c9581534a78a678e063ac",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 29.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "220277_2_1.jpg",
+    "detailImages": ["220277_1_3.jpg", "220277_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Savanna",
+        "colorImageId": "220277_2_1.jpg"
+      },
+      {
+        "colorImageName": "Wave",
+        "colorImageId": "220277_3_1.jpg"
+      },
+      {
+        "colorImageName": "Graffiti",
+        "colorImageId": "220277_4_1.jpg"
+      },
+      {
+        "colorImageName": "Line",
+        "colorImageId": "220277_5_1.jpg"
+      },
+      {
+        "colorImageName": "Safari",
+        "colorImageId": "220277_6_1.jpg"
+      },
+      {
+        "colorImageName": "Totem",
+        "colorImageId": "220277_7_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2da8",
+    "productId": "377822",
+    "title": "Sprouts Kids' Backpack with Pencil Case",
+    "brand": "5e1c9581534a78a678e063ac",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 45.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "377822_1_1.jpg",
+    "detailImages": [
+      "379586_1_2.jpg",
+      "379586_1_3.jpg",
+      "379586_1_4.jpg",
+      "379586_1_5.jpg",
+      "379586_1_6.jpg",
+      "379586_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Fox",
+        "colorImageId": "379586_1_1.jpg"
+      },
+      {
+        "colorImageName": "Graffiti",
+        "colorImageId": "379586_2_1.jpg"
+      },
+      {
+        "colorImageName": "Safari",
+        "colorImageId": "379586_3_1.jpg"
+      },
+      {
+        "colorImageName": "Spaceship",
+        "colorImageId": "379586_4_1.jpg"
+      }
+    ]
+  },
+
+  {
+    "_id": "5c88fa8cf4afda39709c2db1",
+    "productId": "207647",
+    "title": "Backpack with Dual Mesh Pocket",
+    "brand": "5e1cadb4db103ffcd0c4933a",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 29.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "207647_1_1.jpg",
+    "detailImages": ["207647_1_2.jpg", "207647_1_3.jpg", "207647_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "207647_1_1.jpg"
+      },
+      {
+        "colorImageName": "Burgandy/Grey/Black",
+        "colorImageId": "207647_2_1.jpg"
+      },
+      {
+        "colorImageName": "Navy/Grey/Black",
+        "colorImageId": "207647_3_1.jpg"
+      },
+      {
+        "colorImageName": "Orange/Grey/Black",
+        "colorImageId": "207647_4_1.jpg"
+      },
+      {
+        "colorImageName": "Royal Blue/Blue/Black",
+        "colorImageId": "207647_4_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2db2",
+    "productId": "121899",
+    "title": "Classic Backpack",
+    "brand": "5e1cadb4db103ffcd0c4933a",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 79.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "121899_2_1.jpg",
+    "detailImages": [],
+    "colorImages": [
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "121899_3_1.jpg"
+      },
+      {
+        "colorImageName": "Red",
+        "colorImageId": "121899_4_1.jpg"
+      },
+      {
+        "colorImageName": "Royal Blue",
+        "colorImageId": "121899_5_1.jpg"
+      },
+      {
+        "colorImageName": "Tangerine",
+        "colorImageId": "121899_6_1.jpg"
+      },
+      {
+        "colorImageName": "Turquoise",
+        "colorImageId": "121899_7_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2db3",
+    "productId": "317469",
+    "title": "Daypack with Laptop Pocket",
+    "brand": "5e1cadb4db103ffcd0c4933a",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 71.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "317469_1_1.jpg",
+    "detailImages": [
+      "379586_1_2.jpg",
+      "379586_1_3.jpg",
+      "379586_1_4.jpg",
+      "379586_1_5.jpg",
+      "379586_1_6.jpg",
+      "379586_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "379586_1_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "379586_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2db4",
+    "productId": "273682",
+    "title": "Deluxe Laptop Backpack",
+    "brand": "5e1cadb4db103ffcd0c4933a",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 99.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "273682_1_1.jpg",
+    "detailImages": [
+      "273682_1_2.jpg",
+      "273682_1_3.jpg",
+      "273682_1_4.jpg",
+      "273682_1_5.jpg",
+      "273682_1_6.jpg",
+      "273682_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "273682_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2db5",
+    "productId": "292855",
+    "title": "Journey Pack",
+    "brand": "5e1cadb4db103ffcd0c4933a",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 69.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "292855_1_1.jpg",
+    "detailImages": ["292855_1_2.jpg", "292855_1_3.jpg", "292855_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "292855_2_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "292855_3_1.jpg"
+      },
+      {
+        "colorImageName": "Red",
+        "colorImageId": "292855_4_1.jpg"
+      },
+      {
+        "colorImageName": "Burgandy",
+        "colorImageId": "292855_5_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2db6",
+    "productId": "241086",
+    "title": "Junior Slant Backpack",
+    "brand": "5e1cadb4db103ffcd0c4933a",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 54.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "241086_1_1.jpg",
+    "detailImages": [
+      "241086_1_2.jpg",
+      "241086_1_3.jpg",
+      "241086_1_4.jpg",
+      "241086_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "241086_1_1.jpg"
+      },
+      {
+        "colorImageName": "Hot Pink/Black",
+        "colorImageId": "241086_2_1.jpg"
+      },
+      {
+        "colorImageName": "Red/Black",
+        "colorImageId": "241086_3_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "241086_4_1.jpg"
+      },
+      {
+        "colorImageName": "Turquoise/Black",
+        "colorImageId": "241086_5_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2db7",
+    "productId": "207665",
+    "title": "Large Cotton Canvas Backpack",
+    "brand": "5e1cadb4db103ffcd0c4933a",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 119.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 9.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 14.99
+      }
+    ],
+    "coverImage": "207665_1_1.jpg",
+    "detailImages": ["207665_1_2.jpg", "207665_1_3.jpg", "207665_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Khaki",
+        "colorImageId": "207665_1_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2db8",
+    "productId": "260581",
+    "title": "Two Tone Backpack with Mesh Pockets",
+    "brand": "5e1cadb4db103ffcd0c4933a",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 119.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 9.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 14.99
+      }
+    ],
+    "coverImage": "260581_1_1.jpg",
+    "detailImages": [
+      "260581_1_2.jpg",
+      "260581_1_3.jpg",
+      "260581_1_4.jpg",
+      "260581_1_5.jpg",
+      "260581_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "260581_2_1.jpg"
+      },
+      {
+        "colorImageName": "Burgandy/Black",
+        "colorImageId": "260581_3_1.jpg"
+      },
+      {
+        "colorImageName": "Red/Black",
+        "colorImageId": "260581_3_1.jpg"
+      }
+    ]
+  },
+
+  {
+    "_id": "5c88fa8cf4afda39709c2dc1",
+    "productId": "257307",
+    "title": "City Scout Laptop Backpack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 69.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 8.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 11.99
+      }
+    ],
+    "coverImage": "257307_1_1.jpg",
+    "detailImages": [
+      "257307_1_2.jpg",
+      "257307_1_3.jpg",
+      "257307_1_4.jpg",
+      "257307_1_5.jpg",
+      "257307_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Black",
+        "colorImageId": "257307_1_1.jpg"
+      },
+      {
+        "colorImageName": "Field Tan",
+        "colorImageId": "257307_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2dc2",
+    "productId": "338987",
+    "title": "Digital Student Laptop Backpack- Sale Colors",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 119.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 17.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 25.99
+      }
+    ],
+    "coverImage": "338987_4_1.jpg",
+    "detailImages": [
+      "338987_1_2.jpg",
+      "338987_1_3.jpg",
+      "338987_1_4.jpg",
+      "338987_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Blue",
+        "colorImageId": "338987_1_1.jpg"
+      },
+      {
+        "colorImageName": "Prism Pink",
+        "colorImageId": "338987_2_1.jpg"
+      },
+      {
+        "colorImageName": "Prism Pink Pretty Posy",
+        "colorImageId": "338987_3_1.jpg"
+      },
+      {
+        "colorImageName": "Sunrise Bouquet Grey",
+        "colorImageId": "338987_4_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2dc3",
+    "productId": "318782",
+    "title": "Mesh Pack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 59.99,
+    "previousPrice": 99.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 8.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 12.99
+      }
+    ],
+    "coverImage": "318782_1_1.jpg",
+    "detailImages": [
+      "318782_1_2.jpg",
+      "318782_1_3.jpg",
+      "318782_1_4.jpg",
+      "318782_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Blue",
+        "colorImageId": "318782_1_1.jpg"
+      },
+      {
+        "colorImageName": "Regal Blue",
+        "colorImageId": "318782_2_1.jpg"
+      },
+      {
+        "colorImageName": "Black",
+        "colorImageId": "318782_3_1.jpg"
+      },
+      {
+        "colorImageName": "High Risk Red",
+        "colorImageId": "318782_4_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2dc4",
+    "productId": "248660",
+    "title": "Odyssey Laptop Backpack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 119.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "248660_2_1.jpg",
+    "detailImages": [
+      "248660_1_2.jpg",
+      "248660_1_3.jpg",
+      "248660_1_4.jpg",
+      "248660_1_5.jpg",
+      "248660_1_6.jpg",
+      "248660_1_7.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Red",
+        "colorImageId": "248660_1_1.jpg"
+      },
+      {
+        "colorImageName": "Camo",
+        "colorImageId": "248660_2_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2dc5",
+    "productId": "209664",
+    "title": "Right Pack Laptop Backpack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 119.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "209664_1_1.jpg",
+    "detailImages": [
+      "209664_1_2.jpg",
+      "209664_1_3.jpg",
+      "209664_1_4.jpg",
+      "209664_1_5.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "White",
+        "colorImageId": "209664_1_1.jpg"
+      },
+      {
+        "colorImageName": "Blue Spruce",
+        "colorImageId": "209664_2_1.jpg"
+      },
+      {
+        "colorImageName": "Dark Slate",
+        "colorImageId": "209664_3_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2dc6",
+    "productId": "260581",
+    "title": "SuperBreak Backpack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 35.99,
+    "previousPrice": 59.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "260581_1_1.jpg",
+    "detailImages": [
+      "260581_1_2.jpg",
+      "260581_1_3.jpg",
+      "260581_1_4.jpg",
+      "260581_1_5.jpg",
+      "260581_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Blue Jay",
+        "colorImageId": "260581_1_1.jpg"
+      },
+      {
+        "colorImageName": "Navy",
+        "colorImageId": "260581_2_1.jpg"
+      },
+      {
+        "colorImageName": "Black",
+        "colorImageId": "260581_3_1.jpg"
+      },
+      {
+        "colorImageName": "Red",
+        "colorImageId": "260581_4_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2dc7",
+    "productId": "323504",
+    "title": "Superbreak Backpack- Sale Colors",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["small", "medium", "large"],
+    "currentPrice": 119.99,
+    "previousPrice": 199.99,
+    "deliveryDuration": "3 hours",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "323504_2_1.jpg",
+    "detailImages": ["323504_1_2.jpg", "323504_1_3.jpg", "323504_1_4.jpg"],
+    "colorImages": [
+      {
+        "colorImageName": "Liana Vibes",
+        "colorImageId": "323504_2_1.jpg"
+      },
+      {
+        "colorImageName": "Psychic Life",
+        "colorImageId": "323504_3_1.jpg"
+      },
+      {
+        "colorImageName": "Mountain Foliage",
+        "colorImageId": "323504_4_1.jpg"
+      },
+      {
+        "colorImageName": "Palm Life",
+        "colorImageId": "323504_5_1.jpg"
+      },
+      {
+        "colorImageName": "Line Navy",
+        "colorImageId": "323504_6_1.jpg"
+      },
+      {
+        "colorImageName": "Rainbow Delight",
+        "colorImageId": "323504_7_1.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2dc8",
+    "productId": "342843",
+    "title": "Wynwood Laptop Backpack",
+    "brand": "5e0c6959c561bd91d84072c8",
+    "category": "5e12fcca23c4ec7244e1b755",
+    "sizes": ["medium"],
+    "currentPrice": 39.99,
+    "previousPrice": 59.99,
+    "deliveryDuration": "2 days",
+    "protectionTypes": [
+      {
+        "title": "2 year",
+        "additionalPrice": 5.99
+      },
+      {
+        "title": "3 year",
+        "additionalPrice": 9.99
+      }
+    ],
+    "coverImage": "342843_1_1.jpg",
+    "detailImages": [
+      "342843_1_2.jpg",
+      "342843_1_3.jpg",
+      "342843_1_4.jpg",
+      "342843_1_5.jpg",
+      "342843_1_6.jpg"
+    ],
+    "colorImages": [
+      {
+        "colorImageName": "Green",
+        "colorImageId": "342843_1_1.jpg"
+      },
+      {
+        "colorImageName": "Navy Twill",
+        "colorImageId": "342843_2_1.jpg"
+      }
+    ]
+  }
+]
