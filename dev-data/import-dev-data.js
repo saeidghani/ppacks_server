@@ -9,7 +9,7 @@ const User = require('./../models/userModel');
 
 dotenv.config({ path: './config.env' });
 
-const DB = process.env.DATABASE_Local;
+const DB = process.env.DATABASE;
 
 mongoose
   .connect(DB, {
@@ -38,7 +38,7 @@ const importData = async () => {
     //await Category.create(categories);
     //await Brand.create(brands);
     //await Bag.create(bags);
-    await Review.create(reviews);
+    //await Review.create(reviews);
     console.log('Data successfully loaded!');
   } catch (err) {
     console.log(err);
