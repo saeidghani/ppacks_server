@@ -6,7 +6,6 @@ const {
   deleteBook,
   updateBook,
 } = require('../routeHandlers/bookHandler');
-const auth = require('../routeHandlers/authHandler');
 
 const router = express.Router({ mergeParams: true });
 

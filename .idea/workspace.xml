@@ -32,9 +32,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7b887b9-2657-49db-877a-7e4b88f92031" name="Default Changelist" comment="added books api">
+    <list default="true" id="c7b887b9-2657-49db-877a-7e4b88f92031" name="Default Changelist" comment="added heroku integration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/bookRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/bookRoutes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
       <workItem from="1578895196239" duration="18925000" />
       <workItem from="1578977379042" duration="899000" />
       <workItem from="1578978485793" duration="26019000" />
-      <workItem from="1606935169332" duration="1878000" />
+      <workItem from="1606935169332" duration="3272000" />
     </task>
     <task id="LOCAL-00001" summary="added books api">
       <created>1606936217837</created>
@@ -97,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606936217837</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added heroku integration">
+      <created>1606937087340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606937087340</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added heroku integration">
+      <created>1606937204282</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606937204282</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,21 +134,38 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added books routes" />
     <MESSAGE value="added books api" />
-    <option name="LAST_COMMIT_MESSAGE" value="added books api" />
+    <MESSAGE value="added heroku integration" />
+    <option name="LAST_COMMIT_MESSAGE" value="added heroku integration" />
   </component>
   <component name="WindowStateProjectService">
     <state x="481" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606935706865">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="481" y="243" key="#com.intellij.fileTypes.FileTypeChooser/1920.144.1366.718/0.0.1536.920@0.0.1536.920" timestamp="1606935706865" />
+    <state width="1509" height="163" key="GridCell.Tab.0.bottom" timestamp="1606938219463">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1509" height="163" key="GridCell.Tab.0.bottom/1920.144.1366.718/0.0.1536.920@0.0.1536.920" timestamp="1606938219463" />
+    <state width="1509" height="163" key="GridCell.Tab.0.center" timestamp="1606938219463">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1509" height="163" key="GridCell.Tab.0.center/1920.144.1366.718/0.0.1536.920@0.0.1536.920" timestamp="1606938219463" />
+    <state width="1509" height="163" key="GridCell.Tab.0.left" timestamp="1606938219463">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1509" height="163" key="GridCell.Tab.0.left/1920.144.1366.718/0.0.1536.920@0.0.1536.920" timestamp="1606938219463" />
+    <state width="1509" height="163" key="GridCell.Tab.0.right" timestamp="1606938219463">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1509" height="163" key="GridCell.Tab.0.right/1920.144.1366.718/0.0.1536.920@0.0.1536.920" timestamp="1606938219463" />
     <state x="160" y="19" key="SettingsEditor" timestamp="1606935485027">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="160" y="19" key="SettingsEditor/1920.144.1366.718/0.0.1536.920@0.0.1536.920" timestamp="1606935485027" />
-    <state x="261" y="128" key="Vcs.Push.Dialog.v2" timestamp="1606936235275">
+    <state x="261" y="128" key="Vcs.Push.Dialog.v2" timestamp="1606937207571">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="261" y="128" key="Vcs.Push.Dialog.v2/1920.144.1366.718/0.0.1536.920@0.0.1536.920" timestamp="1606936235275" />
+    <state x="261" y="128" key="Vcs.Push.Dialog.v2/1920.144.1366.718/0.0.1536.920@0.0.1536.920" timestamp="1606937207571" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
