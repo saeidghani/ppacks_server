@@ -32,14 +32,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7b887b9-2657-49db-877a-7e4b88f92031" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/bookModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routeHandlers/bookHandler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/bookRoutes.js" afterDir="false" />
+    <list default="true" id="c7b887b9-2657-49db-877a-7e4b88f92031" name="Default Changelist" comment="added books api">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routeHandlers/bagHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/routeHandlers/bagHandler.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +88,16 @@
       <workItem from="1578895196239" duration="18925000" />
       <workItem from="1578977379042" duration="899000" />
       <workItem from="1578978485793" duration="26019000" />
-      <workItem from="1606935169332" duration="1003000" />
+      <workItem from="1606935169332" duration="1878000" />
     </task>
+    <task id="LOCAL-00001" summary="added books api">
+      <created>1606936217837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606936217837</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +117,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added books routes" />
+    <MESSAGE value="added books api" />
+    <option name="LAST_COMMIT_MESSAGE" value="added books api" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="481" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606935706865">
       <screen x="0" y="0" width="1536" height="920" />
@@ -123,6 +131,10 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="160" y="19" key="SettingsEditor/1920.144.1366.718/0.0.1536.920@0.0.1536.920" timestamp="1606935485027" />
+    <state x="261" y="128" key="Vcs.Push.Dialog.v2" timestamp="1606936235275">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="261" y="128" key="Vcs.Push.Dialog.v2/1920.144.1366.718/0.0.1536.920@0.0.1536.920" timestamp="1606936235275" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
