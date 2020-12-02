@@ -1,16 +1,10 @@
-const Bag = require('./../models/bagModel');
+const Book = require('./../models/bookModel');
 const catchAsync = require('./../utils/catchAsync');
 const factory = require('./handlerFactory');
 const AppError = require('./../utils/appError');
 
-exports.getAllBags = factory.getAll(Bag, [
-  { path: 'category', select: '-__v' },
-  { path: 'brand', select: '-__v' }
-]);
-exports.createBag = factory.createOne(Bag);
-exports.getBag = factory.getOne(Bag, [
-  { path: 'category', select: '-_v' },
-  { path: 'brand', select: '-_v' }
-]);
-exports.deleteBag = factory.deleteOne(Bag);
-exports.updateBag = factory.updateOne(Bag);
+exports.getAllBooks = factory.getAll(Book);
+exports.createBook = factory.createOne(Book);
+exports.getBook = factory.getOne(Book);
+exports.deleteBook = factory.deleteOne(Book);
+exports.updateBook = factory.updateOne(Book);

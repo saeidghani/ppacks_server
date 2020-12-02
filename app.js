@@ -16,6 +16,7 @@ const categoryRouter = require('./routes/categoryRoutes');
 const orderRouter = require('./routes/orderRoutes');
 const userRouter = require('./routes/userRoutes');
 const reviewRouter = require('./routes/reviewRoutes');
+const bookRouter = require('./routes/bookRoutes');
 
 const app = express();
 
@@ -76,7 +77,7 @@ if (process.env.NODE_ENV === 'development') {
 const limiter = rateLimit({
   max: 500,
   windowMs: 60 * 60 * 1000,
-  message: 'Too many requests from this IP, please try again in an hour!'
+  message: 'Too many requests from this IP, please try again in an hour!',
 });
 // app.use('/api', limiter);
 
@@ -120,6 +121,7 @@ app.use('/api/v1/categories', categoryRouter);
 app.use('/api/v1/users', userRouter);
 app.use('/api/v1/reviews', reviewRouter);
 app.use('/api/v1/orders', orderRouter);
+app.use('/api/v1/books', bookRouter);
 
 app.all('*', (req, res, next) => {
   next(new AppError(`Can't find ${req.originalUrl} on this server!`, 404));
