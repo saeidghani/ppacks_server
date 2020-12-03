@@ -32,10 +32,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7b887b9-2657-49db-877a-7e4b88f92031" name="Default Changelist" comment="added heroku integration">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/bookRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/bookRoutes.js" afterDir="false" />
-    </list>
+    <list default="true" id="c7b887b9-2657-49db-877a-7e4b88f92031" name="Default Changelist" comment="added heroku integration" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +86,7 @@
       <workItem from="1578977379042" duration="899000" />
       <workItem from="1578978485793" duration="26019000" />
       <workItem from="1606935169332" duration="3272000" />
+      <workItem from="1607023805156" duration="584000" />
     </task>
     <task id="LOCAL-00001" summary="added books api">
       <created>1606936217837</created>
@@ -130,6 +128,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added books routes" />
